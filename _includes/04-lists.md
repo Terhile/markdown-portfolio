@@ -1,6 +1,6 @@
-Here is a list of my favorite things :smile:
-
-# Programming languages
+Here is a *list* of **my favorite things** :smile:
+# Skills
+## Programming languages
 * Java
 * C#
 * Python
